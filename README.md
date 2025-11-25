@@ -1,8 +1,3 @@
-Here is your content **fully structured, formatted, and polished for GitHub**.
-Just **copy–paste into your README.md** and it will render perfectly.
-
----
-
 # 🚚 SupplyChain-Delivery
 
 **Real-Time Shipment Tracking, Data Ingestion & Delivery Monitoring Platform**
