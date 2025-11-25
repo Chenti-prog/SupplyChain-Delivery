@@ -1,0 +1,9 @@
+pandas
+faker
+python-dateutil
+SQLAlchemy
+psycopg2-binary
+fastapi
+uvicorn[standard]
+streamlit
+requests

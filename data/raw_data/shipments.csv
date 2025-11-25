@@ -1,0 +1,501 @@
+shipment_id,order_id,customer_id,origin_city,origin_state,dest_city,dest_state,carrier,service_level,created_at
+e28d13f3-dd94-4a15-a7fc-72d5f42f5d43,ORD15138,CUST9350,Debramouth,NC,East Kenneth,AL,FedEx,Standard,2025-01-03
+58ad7d41-6fc3-4156-b16d-ebf97c1f4e05,ORD42380,CUST8540,Port Robert,MN,North Adrian,UT,UPS,Two-Day,2025-01-17
+94468e9a-a655-4f6c-8a99-d81247d77afd,ORD62403,CUST0318,Port Monicafurt,SC,West Karachester,CO,Amazon Logistics,Standard,2025-01-18
+f5c3ee1c-5264-4b7a-86f2-17e52dad7979,ORD02122,CUST7817,South Sherrimouth,GA,South Johnny,HI,Amazon Logistics,Two-Day,2025-01-13
+70452e1f-3f99-4206-9abe-f0eb6546aef0,ORD58853,CUST5698,New Sandra,ME,North Joseph,CA,UPS,Same-Day,2025-01-25
+9f4d812d-9599-4b33-91af-75d202cdae5b,ORD33504,CUST4198,Port Amanda,CO,New Christophertown,KS,UPS,Standard,2025-01-31
+c2baf510-75f8-4a3d-9993-962b67913985,ORD06204,CUST6653,Taylortown,LA,Dianamouth,KY,UPS,Standard,2025-01-30
+25a53794-20cb-4c4b-9708-e80567e9e6f3,ORD21572,CUST0267,North Susanchester,MS,Port Jasmine,TX,FedEx,Two-Day,2025-01-27
+59d0e501-bba3-4f1b-b30c-4ce50f7f4ffb,ORD12808,CUST2482,South Susanhaven,CO,South Sarah,PR,UPS,Standard,2025-01-25
+285e58b6-ad71-41c6-badd-7c4b41aa412c,ORD33295,CUST7591,South Robert,IL,Lake Robertberg,FL,FedEx,Two-Day,2025-01-28
+6e5a968f-7715-42ef-9988-f5cbf5954960,ORD85983,CUST9747,Maynardbury,MO,Smithtown,PR,UPS,Standard,2025-01-21
+aeac5dcc-5325-489f-b3e0-1aceaa46f3d3,ORD33335,CUST5097,New Isabelland,DE,Jerrystad,UT,FedEx,Same-Day,2025-01-22
+f79e5946-27ef-4c96-983d-aba334dc76f2,ORD11845,CUST7596,Lake Nicolehaven,OH,Bennettchester,DC,FedEx,Two-Day,2025-01-04
+4fdfc98a-467b-407c-a210-7ffd132bbb79,ORD47651,CUST0134,Jasonfurt,MS,Suzanneside,WI,FedEx,Standard,2025-01-13
+b8b6d97b-f981-4993-ab40-c0fbb94d5179,ORD67579,CUST3032,Stevenshire,MD,Mooreton,TN,FedEx,Same-Day,2025-01-31
+fa21460d-5165-40f8-aa60-21544880e952,ORD58072,CUST2166,New Ebonyport,GA,North Christinastad,WA,UPS,Standard,2025-01-05
+db238dc3-5445-411f-8dd1-df7bafeb8785,ORD95804,CUST4339,South Brent,MA,Potterburgh,IN,FedEx,Two-Day,2025-01-27
+bf3d3957-6487-4ed9-a74f-0b3ae8874941,ORD30324,CUST6895,Davischester,NJ,West Todd,VI,Amazon Logistics,Standard,2025-01-25
+36855a99-4a8d-42a5-9acf-79d5be0d6831,ORD13927,CUST2958,Aliciaborough,DC,West Ryan,KY,UPS,Same-Day,2025-01-20
+cc340c69-6a25-4ba7-b435-b699ab78d587,ORD79034,CUST5659,Roseton,SC,West Kylefurt,PR,Amazon Logistics,Same-Day,2025-01-19
+95359619-7a9d-4e1b-b5f1-031e30e0c721,ORD02684,CUST4690,New Cassandra,TX,New Raven,MA,Amazon Logistics,Standard,2025-01-18
+82e4e6e9-b260-4b12-b572-6901aa6d3cf3,ORD59935,CUST8669,Lake Saramouth,MN,Annebury,IA,Amazon Logistics,Two-Day,2025-01-09
+2b0973dd-84ba-4e00-8da3-950185596404,ORD48250,CUST5839,Lake Frank,IN,Mitchellbury,DE,Amazon Logistics,Same-Day,2025-01-04
+ae9a4d3c-77e5-4db9-baa0-920f7c90e9dc,ORD68069,CUST2203,Kennethport,DC,Port Lauraview,RI,FedEx,Same-Day,2025-01-02
+e5ba43d6-4679-407d-8ab8-dde323fb464d,ORD44017,CUST7904,Port Maria,MN,Troyshire,UT,UPS,Same-Day,2025-01-23
+471399f8-6ead-4d7e-93ec-7a320a0d382c,ORD70062,CUST4073,Lake Johnfort,CA,East Luis,RI,UPS,Same-Day,2025-01-28
+d04fb787-319c-4267-aba6-eb06eac03e1f,ORD25143,CUST8980,South Carlville,CT,Garcialand,CO,UPS,Standard,2025-01-20
+cffd323a-8a99-4cb0-a25d-dce684837407,ORD97483,CUST2356,Simmonsfort,NV,Deanmouth,TN,Amazon Logistics,Same-Day,2025-01-15
+d9761af7-2ea6-495c-881c-e1326290a413,ORD69616,CUST0036,South Deniseshire,MI,North Hollyborough,TX,UPS,Two-Day,2025-01-27
+186516ed-3f6b-4350-91ef-b2412af6eebf,ORD01720,CUST0729,Gillton,TX,West Adammouth,IN,FedEx,Two-Day,2025-01-18
+9b17b588-7dcc-4c78-9e8e-cb06565c346f,ORD57510,CUST0140,Port William,FM,Port Patrick,MA,FedEx,Two-Day,2025-01-11
+d345dfbc-5353-4289-95d9-d6475fbfff7c,ORD61934,CUST7611,Leeberg,AR,Lake Johntown,SD,FedEx,Same-Day,2025-01-17
+cb83cd69-9175-44be-88b3-47b1e59165df,ORD85009,CUST4272,Leahhaven,SC,Robinsonside,AL,Amazon Logistics,Standard,2025-01-29
+bf3b2624-0747-4594-8c5a-916cffd27c8b,ORD27245,CUST5171,Barbarahaven,MN,Glennshire,DE,UPS,Standard,2025-01-17
+979adc6e-e8f0-45f8-b753-529e41bcba8a,ORD96315,CUST0776,Port Chelsea,OR,Dawnfort,VT,FedEx,Standard,2025-01-09
+0316e7d1-8926-41fc-8049-d01ea8b563a0,ORD02232,CUST8914,Colinview,NC,Smithfort,AS,UPS,Standard,2025-01-10
+0f745fba-38a6-4547-be38-297f2160f83d,ORD36551,CUST7997,Dylanburgh,NV,Lunamouth,CO,FedEx,Two-Day,2025-01-01
+e3596837-c08c-4ee9-89e1-8610efd70f97,ORD46059,CUST6973,East Ricky,MH,Raymondtown,PR,UPS,Same-Day,2025-01-16
+dc6ebed2-d05e-4a9b-b718-c2949b8c794b,ORD53422,CUST7671,Port Pamelaberg,WV,Alexandramouth,AZ,UPS,Standard,2025-01-11
+52850575-25bf-49d7-9c05-6963e943c47d,ORD70377,CUST7128,North Stevenshire,FL,New Tara,HI,FedEx,Same-Day,2025-01-11
+0b021a01-daa2-4a50-a1d1-521c75195e5f,ORD35944,CUST8375,Erikburgh,VA,Smithside,WI,Amazon Logistics,Same-Day,2025-01-01
+e5829b42-b9c6-4b61-a4e5-277283737c9a,ORD97972,CUST2540,Jonathanshire,DC,Joanside,MO,FedEx,Two-Day,2025-01-20
+0051d89f-222e-4516-ae71-4bf9a7d75d76,ORD17274,CUST6029,Karenberg,NJ,Matthewport,AK,Amazon Logistics,Same-Day,2025-01-06
+76d9ea29-4737-4cc1-b067-88e2dbb8a84e,ORD06674,CUST7468,South Daniel,PA,East Katie,AS,FedEx,Two-Day,2025-01-02
+f431f87e-95f9-4148-9944-77d95b89a35a,ORD56435,CUST4800,Port Sabrina,GU,Port Andreaport,PW,Amazon Logistics,Same-Day,2025-01-07
+67a57d60-3d49-4c3e-b1ed-878c087d5eb8,ORD63887,CUST7477,Jacobhaven,MH,Lewisview,IN,Amazon Logistics,Standard,2025-01-17
+6852ddee-d9fb-4a5f-a455-c41c15161cc0,ORD77124,CUST5027,New Katie,MI,Port Karen,GA,Amazon Logistics,Two-Day,2025-01-20
+98a7617f-d59e-4897-a8ee-826635b59343,ORD00522,CUST2860,New Pamela,OH,Juliatown,NM,UPS,Standard,2025-01-21
+99e3e82b-a622-4d13-aec4-a7491904d944,ORD95036,CUST8408,Thomaschester,GU,Jenniferview,FL,UPS,Same-Day,2025-01-05
+672f6b7c-0df2-4fd9-bbd8-93f59bff27b5,ORD95840,CUST2962,Spencerfort,DE,South Robin,MH,FedEx,Standard,2025-01-06
+4cc87662-a573-4c73-ab78-d256f02dfb48,ORD85535,CUST8522,Freemanshire,AS,Morganshire,OR,UPS,Same-Day,2025-01-19
+5ab2da57-bb90-4285-9872-eac037b594c4,ORD22024,CUST2836,Oscarstad,NV,South Shannon,WI,FedEx,Two-Day,2025-01-10
+7cc084f8-563e-44e9-8938-eb5f833104ac,ORD29696,CUST1417,Lake Annette,PW,South Benjamin,NH,UPS,Standard,2025-01-12
+ae67820d-c426-424b-8d22-43e52d4bcb68,ORD20192,CUST7020,Janicemouth,TX,East Charlesland,RI,Amazon Logistics,Standard,2025-01-21
+0487eaa5-fdbc-4008-8547-1c543be5617e,ORD97407,CUST6278,Wigginsborough,PA,New Steve,OH,UPS,Standard,2025-01-30
+2bc95a89-a856-4d2e-b064-730eee7a4994,ORD72409,CUST1425,Port Donna,AS,Port Joshua,GU,UPS,Two-Day,2025-01-20
+27c17be4-caa4-4f21-a1a7-77cbc8ca4017,ORD84308,CUST7948,Mendozaton,AR,New Nicolestad,NC,FedEx,Standard,2025-01-26
+c5d4a346-8322-44b4-b6b4-8c4c0576fa26,ORD96646,CUST7739,North Amanda,WI,Shawport,ND,FedEx,Same-Day,2025-01-20
+25832604-0f52-408a-8101-bf292fe5c9c9,ORD01424,CUST4338,North Timothy,AR,East Joannabury,OK,FedEx,Standard,2025-01-05
+391d18b8-17fc-4de5-8dc2-04a69b218f0b,ORD41895,CUST3112,South Walter,NJ,Elizabethfort,LA,Amazon Logistics,Standard,2025-01-29
+158a8140-9823-46f6-8ec6-4862f060c27a,ORD25427,CUST6400,Brianburgh,CT,Georgechester,DE,UPS,Standard,2025-01-01
+f2ca72ca-4f38-45f8-8886-f42eb3fc7afd,ORD11612,CUST6565,New Alexbury,OK,Edwardtown,VA,FedEx,Two-Day,2025-01-11
+37eb0d42-a889-4710-a9fd-cf9ed8988375,ORD49476,CUST1130,Pamelaville,WA,Ericbury,RI,FedEx,Two-Day,2025-01-19
+1506b9bd-ba77-400d-96c8-4f1a95809a5a,ORD60579,CUST7109,Kingmouth,PW,Thomasberg,SD,UPS,Two-Day,2025-01-21
+21e0c37a-c4d5-4f50-81d3-0702ec1f6c37,ORD07070,CUST6179,West Christopher,AK,Nicholasmouth,CT,FedEx,Standard,2025-01-19
+eb797991-3b60-4915-9ba4-aebbd8566461,ORD82819,CUST8452,New Paulaside,UT,East Lance,DE,UPS,Standard,2025-01-29
+842a1f89-2da0-416b-a8ec-ad7a20153afb,ORD84134,CUST0517,Port Stephanieburgh,NH,Port Christopherbury,KS,FedEx,Two-Day,2025-01-26
+c184f28c-1a0c-4ac7-a4bc-785af28f892d,ORD56002,CUST5258,Port Crystal,GU,East Rebeccashire,AR,UPS,Same-Day,2025-01-29
+462896a0-20f5-408b-b522-9f2f7fad3834,ORD09778,CUST0502,West Sarahchester,RI,Carolburgh,TX,FedEx,Standard,2025-01-27
+53f97883-a57b-4a2e-ae67-7ab983e92f1c,ORD76716,CUST6558,Lake Michaeltown,SD,Armstrongton,WA,FedEx,Same-Day,2025-01-18
+928dc399-9c27-4baf-ae70-4512f303fb80,ORD35801,CUST1919,Deborahmouth,NV,Bergerland,WI,UPS,Two-Day,2025-01-26
+86a9b579-fa9a-46a1-9f31-c79cadba4c20,ORD38346,CUST4009,East Emilyhaven,VA,Rebeccafurt,SC,Amazon Logistics,Same-Day,2025-01-16
+e744b552-e66b-4dc1-9476-871de8b1db5d,ORD07846,CUST9834,South Johnberg,ND,Katherineland,HI,Amazon Logistics,Standard,2025-01-09
+d9a0d72c-a767-43c5-871b-67d870368edd,ORD28212,CUST8010,Sandrachester,WA,Lake Nathan,MP,Amazon Logistics,Two-Day,2025-01-05
+e69e9712-89fd-4441-b3cb-8c038ed4a2e7,ORD78329,CUST8437,North Elizabethville,DE,East Andrew,NH,UPS,Same-Day,2025-01-24
+cb60e2b8-4041-476d-86ef-b5ce9e273770,ORD99647,CUST8420,East Donald,KY,Lancechester,ND,FedEx,Two-Day,2025-01-12
+44fc2ddd-6ac8-4402-b0ff-e4f94d5b4583,ORD91411,CUST1117,North Kendraview,CA,Lawrenceview,UT,Amazon Logistics,Standard,2025-01-06
+14d17bbd-cca0-432e-9222-5f58aa3fd98b,ORD36573,CUST7802,Johnsonborough,WY,Barberland,AL,FedEx,Two-Day,2025-01-19
+02c9ee93-daae-4f71-bda4-119ef94535a7,ORD88718,CUST7817,North Peter,AR,Blairview,PW,FedEx,Same-Day,2025-01-31
+99bc9fb5-6c37-4081-9a7c-4622073f221d,ORD04997,CUST1391,New Thomasberg,AR,Morrisonstad,CO,UPS,Two-Day,2025-01-25
+bda74b41-236b-4cbe-be35-833b3b674d75,ORD17199,CUST6050,Ginafort,MP,Isaacbury,MP,Amazon Logistics,Same-Day,2025-01-26
+509090ab-321c-48ba-b37f-7279acf1eb85,ORD83349,CUST0089,Morganton,SD,South Jesseshire,ID,FedEx,Two-Day,2025-01-27
+1e7f9414-e39f-4898-9317-8cc1ef3761ca,ORD93746,CUST7483,Tabithafurt,AK,Linbury,OK,FedEx,Two-Day,2025-01-23
+41f59358-dbe0-4577-b6a9-bdf168a7bf22,ORD90149,CUST4616,Snyderstad,MD,South Ebony,MH,FedEx,Standard,2025-01-19
+17a364b4-0f8b-49de-9d43-94a93fdac012,ORD84278,CUST4364,North Timothy,CA,Ricechester,WI,UPS,Same-Day,2025-01-02
+511a6689-b6ac-4beb-9ba8-e37a3943a8c0,ORD90335,CUST9856,New Timothy,PA,Maxwellville,TX,Amazon Logistics,Two-Day,2025-01-12
+d62f7c82-0c2f-441f-8a1f-8a52d0a3c37b,ORD63954,CUST9740,Bryantport,KY,Brandonhaven,PW,FedEx,Two-Day,2025-01-20
+32c863b1-c98b-4a1b-92ea-0d3ee83e4e9a,ORD90917,CUST6158,Pattersonfurt,ND,South Stevenshire,OR,Amazon Logistics,Standard,2025-01-24
+6fe630ec-e4d9-478d-9ed7-a40cdca3ccdd,ORD44310,CUST2671,Jeffreyburgh,NM,Smithview,RI,UPS,Standard,2025-01-23
+ce43328b-394a-4422-a757-26688a8aedf3,ORD54629,CUST0467,Jaredhaven,SC,Richardfort,GA,UPS,Two-Day,2025-01-10
+9346ee1f-d6c8-4f95-8429-937b6445e459,ORD40894,CUST7468,Port Maryberg,PR,New Austinport,NE,UPS,Standard,2025-01-16
+0a530bda-8682-4cc2-ae47-c0a11db61553,ORD28725,CUST6760,West Michaelhaven,FL,West Kathrynhaven,NE,Amazon Logistics,Same-Day,2025-01-28
+0a42a8e1-3962-47ef-8522-963f32aaebd4,ORD65373,CUST0015,Gloriafurt,MO,Dawnbury,CO,UPS,Same-Day,2025-01-14
+940381c2-022c-456b-ae48-b1343c473dbd,ORD28859,CUST0234,Doyleshire,IN,Joshuamouth,ND,Amazon Logistics,Standard,2025-01-28
+44f7a86d-bfaf-4452-9775-818317a2cf2b,ORD53618,CUST8562,Younghaven,DE,Fullerton,DC,UPS,Same-Day,2025-01-02
+88b21418-4853-414d-bd6d-ce4ad00d02b0,ORD37162,CUST6946,Waltersfurt,VA,South Johnborough,WI,UPS,Standard,2025-01-13
+d4ccff75-1e4a-4391-8b97-8bc916f0235c,ORD10443,CUST8524,Angelaland,UT,Port Bobby,UT,Amazon Logistics,Same-Day,2025-01-14
+a049d034-84f1-4ea0-9bd2-ff2ac08d8df7,ORD38460,CUST5022,Lake Annatown,MO,Matthewsburgh,LA,UPS,Two-Day,2025-01-12
+4f57896b-6620-4340-b0b0-e9cb46aca88d,ORD18819,CUST9952,Kathleenville,KS,Whitemouth,RI,Amazon Logistics,Two-Day,2025-01-13
+c2e2c6f8-005b-46f7-86b0-86d1bda2cad7,ORD02802,CUST6374,South Ronald,MD,West Brendachester,ND,UPS,Two-Day,2025-01-10
+1ca84841-cac2-4ede-bd5d-a95cc52d944f,ORD24798,CUST7947,Anthonyview,UT,Matthewmouth,MT,UPS,Standard,2025-01-28
+abd70b3b-01fa-437b-ae60-7b27b6364304,ORD76973,CUST8420,South Dillonshire,NM,Davidmouth,FL,UPS,Two-Day,2025-01-19
+c1f08480-8f5f-48b6-84ae-263d35a325d3,ORD24167,CUST4006,Brianshire,FL,Joshuamouth,VT,FedEx,Same-Day,2025-01-17
+433136d6-c8db-422e-89dc-0f8b4ab51ff1,ORD64154,CUST1272,Chambershaven,NE,Adamsbury,NY,UPS,Same-Day,2025-01-07
+4859246b-8760-4b18-bf23-5dbf2b7e29d6,ORD47653,CUST7133,Heathermouth,MI,Barrontown,AK,Amazon Logistics,Standard,2025-01-03
+d5d0a620-8696-4e06-86eb-8e04dce9bb5d,ORD66643,CUST4291,Timothyburgh,WI,South Kellyborough,MN,FedEx,Same-Day,2025-01-30
+0e6925ae-ce6c-491a-b8a2-ba8f14cca3f9,ORD77483,CUST5862,North Virginia,OH,New Dana,UT,Amazon Logistics,Same-Day,2025-01-18
+25fcb350-4c39-46a3-b365-c409f38c8986,ORD03676,CUST1402,Port Stevenville,OR,Kimberlychester,MD,Amazon Logistics,Same-Day,2025-01-26
+78371b84-46c9-4ceb-bec6-17f50d13fc7f,ORD55155,CUST1329,Stevenfort,RI,West James,WI,UPS,Two-Day,2025-01-09
+576d6594-902e-4c33-bd50-afc5a7d241c2,ORD10762,CUST6154,Port Victoria,AK,New Shawn,MP,UPS,Standard,2025-01-07
+72dca66a-4640-45e4-a48a-a627ce0cb515,ORD79706,CUST1682,Frederickshire,MO,North Brian,MS,UPS,Standard,2025-01-23
+468a2a2a-907d-47d2-957d-82fbdba33a59,ORD83520,CUST6448,New Timothyside,AS,Martinezmouth,NM,FedEx,Standard,2025-01-11
+16ffa6ce-70f9-4f1b-b31b-65170944970d,ORD90735,CUST3364,Port Philipmouth,NH,Owensmouth,GA,Amazon Logistics,Standard,2025-01-29
+528992e1-81f7-4799-a192-3aa2eee2302b,ORD94847,CUST7391,South Rachel,AK,Timothyport,GU,FedEx,Two-Day,2025-01-07
+aed70a01-735d-488e-b7b9-eeb0c8a81e87,ORD23892,CUST7482,New Stacy,WI,Lake Amanda,KS,Amazon Logistics,Two-Day,2025-01-17
+ee257fc9-6e44-4274-aac7-dc806dc566f6,ORD09566,CUST1901,North Zacharyhaven,MS,Gomezville,KS,UPS,Two-Day,2025-01-20
+fb76be58-03ed-4bb1-82a3-5d451cc3b930,ORD29992,CUST0185,Alexanderburgh,ME,Port Maryhaven,RI,UPS,Same-Day,2025-01-24
+965fec63-d41e-46be-8a30-42bfe52a05b2,ORD70841,CUST6685,New Allison,DE,Johnsonville,MT,Amazon Logistics,Same-Day,2025-01-18
+bc00537a-f98a-4ec0-b788-4822bfab80f7,ORD60284,CUST6153,West Michael,FL,Thomasland,MT,Amazon Logistics,Standard,2025-01-15
+f680570a-e821-4a2e-b05d-3af4c5d18c37,ORD43732,CUST7140,South Joshua,VA,Julieborough,AS,UPS,Standard,2025-01-09
+bcf74156-61fa-489b-a5c2-9590f3a81379,ORD52679,CUST6219,New Davidton,MN,New Sarah,NE,UPS,Same-Day,2025-01-05
+e0d5502d-c912-4aa0-8f8c-752c0b67d460,ORD13752,CUST9633,Lake Kimberly,MI,South Seanchester,PA,FedEx,Standard,2025-01-18
+a744bf41-b642-4fac-ac61-1ec6d9855812,ORD46279,CUST2953,Port Pamela,AZ,Port Tony,OK,FedEx,Two-Day,2025-01-29
+225ebb8c-3631-47ab-adc3-46b7274b8194,ORD29574,CUST6253,Fitzgeraldfort,RI,East Nicole,MA,UPS,Two-Day,2025-01-07
+b7605880-54ac-43e6-9048-9667ebe39897,ORD48740,CUST5402,North Jessicaburgh,MD,Shawshire,MN,UPS,Standard,2025-01-06
+ec140fa2-0030-4b1f-817a-8614a1116770,ORD57297,CUST6487,Port Christinamouth,FL,Lake Josephmouth,KY,FedEx,Two-Day,2025-01-11
+c72cbd96-1464-4e01-84ed-743978d3166f,ORD29356,CUST8290,Evansbury,TN,Millerhaven,NM,FedEx,Standard,2025-01-19
+7f50e582-b8ca-4b93-bfe2-917ebdac3b45,ORD04195,CUST0497,Michelleview,RI,South Diana,NE,UPS,Two-Day,2025-01-05
+64e7b0db-92bd-4292-8280-97258802f75e,ORD28252,CUST2257,South Gregory,AR,Lake Vincent,VA,Amazon Logistics,Same-Day,2025-01-08
+7e2fa570-1bb2-4773-acfb-ef3efe5d1977,ORD86270,CUST7166,East Michael,TN,Evansfurt,NV,FedEx,Standard,2025-01-20
+9648a1c5-b4d6-435e-85ed-3c93de88d104,ORD98130,CUST5649,Thomaschester,KS,West Scottmouth,CT,UPS,Two-Day,2025-01-19
+b4c4e5a1-1a97-42b4-8654-1f6e6ceb83c8,ORD87630,CUST9528,West Michelemouth,HI,Sawyerhaven,WV,Amazon Logistics,Standard,2025-01-02
+f025984a-fe96-4813-9734-3f7cd7ea38a3,ORD71057,CUST3210,Morrisberg,CT,Port Margaret,WV,Amazon Logistics,Standard,2025-01-04
+754180d2-46b5-4028-860b-189abd97ed17,ORD27676,CUST2653,Doristown,MS,Harrisshire,KS,Amazon Logistics,Two-Day,2025-01-18
+84e8d2d6-2ab0-4ff9-844e-17e98b8648e7,ORD75022,CUST0906,Lloydstad,LA,Elizabethmouth,TX,FedEx,Same-Day,2025-01-21
+e740bbc2-2ed9-4b0a-8273-9da0d51c88a3,ORD79503,CUST9821,Alvarezbury,NC,Port Laurie,VT,Amazon Logistics,Same-Day,2025-01-30
+77e0a5cf-0faf-495a-98fe-33876465a789,ORD77552,CUST4614,Jeremyton,NJ,North Patricia,WI,UPS,Standard,2025-01-05
+324d1856-a05c-471f-88a8-db68655ecad5,ORD23857,CUST2647,New Christopher,NE,North Davidport,NE,Amazon Logistics,Same-Day,2025-01-02
+be095a0f-2a58-41af-8036-536703f9a1b3,ORD30870,CUST7639,Port Monicaville,AZ,Shellybury,WA,Amazon Logistics,Two-Day,2025-01-06
+973574cb-354b-4f18-88a1-4d577deb7ede,ORD31501,CUST5821,Justinmouth,AZ,East Josephton,KY,Amazon Logistics,Standard,2025-01-26
+19e94c34-991a-453d-baf0-fb032a5e0fde,ORD48731,CUST6867,South Joseph,FM,Smithton,FL,FedEx,Standard,2025-01-05
+58cd82fe-ce31-4e27-8b2b-00f520ef0f32,ORD88137,CUST6736,Lake Ashleefurt,FL,South Kelseystad,MT,UPS,Standard,2025-01-22
+60fcd99c-7f2d-4824-95e8-f0d4b0ab366b,ORD66380,CUST9253,Lake Maria,ID,Davidside,NE,UPS,Same-Day,2025-01-18
+83534ecf-4b3b-4776-ae91-272666ff01b7,ORD28946,CUST4834,Lake Kevinstad,MT,Phillipsmouth,TN,UPS,Same-Day,2025-01-03
+13373ff0-0206-473c-abf1-188825f5507f,ORD85503,CUST1917,Morganmouth,VT,Lake Christinaland,AS,FedEx,Standard,2025-01-08
+1d8b4ed0-0e49-42aa-8431-d47fbec1c9e7,ORD30368,CUST4499,West David,PR,Nortonberg,MI,UPS,Same-Day,2025-01-13
+d5656fc7-b90c-45fc-be4e-895d7ffd2a57,ORD04309,CUST7422,Jenniferfort,MD,Lake Lindsaychester,WV,FedEx,Two-Day,2025-01-07
+fac4a867-6e13-4f80-ae22-06d4fe193464,ORD38220,CUST7329,West Richard,RI,Port Annetteview,AK,Amazon Logistics,Standard,2025-01-23
+4624cad1-6255-4e68-ae1f-bd950b9b965a,ORD46668,CUST2318,East Wesley,MN,Sethfort,HI,FedEx,Two-Day,2025-01-22
+0d0f73ea-ccae-4d16-8a36-545cac6445bf,ORD59906,CUST8595,Colestad,IN,West Shannonhaven,NJ,UPS,Same-Day,2025-01-29
+f292845b-77d2-407b-bdec-13dcfecc23a1,ORD18012,CUST8524,Wilsonborough,PA,North Joseph,TN,UPS,Same-Day,2025-01-17
+63a156aa-2b57-4c7d-b283-7773047e581b,ORD93412,CUST2332,Port Sarah,NC,Wolfemouth,FM,UPS,Same-Day,2025-01-11
+5affe9ca-43b0-42de-95b0-b9f22c6d7c5c,ORD47334,CUST8962,Kristinaborough,AK,Charlesview,TN,Amazon Logistics,Same-Day,2025-01-24
+25d214b9-1075-4773-948e-9302d2a92fea,ORD62617,CUST9860,Jacquelinefurt,AZ,Lanehaven,NM,Amazon Logistics,Same-Day,2025-01-22
+444e386f-36e5-40ba-8ab1-5b14b7cfdd90,ORD20488,CUST0391,Port Robertfurt,SD,Rebeccachester,TN,Amazon Logistics,Same-Day,2025-01-11
+79b3b158-9ce6-451b-99c8-02a401c32bdd,ORD59394,CUST6889,Stephaniestad,AR,Stephanieland,GA,Amazon Logistics,Same-Day,2025-01-10
+7e0be83b-70a4-4545-93ea-f6fe1703d9c2,ORD98164,CUST1757,Port Courtney,MS,Angelaton,GU,Amazon Logistics,Two-Day,2025-01-30
+b1790bce-ffd3-4efb-8df6-c34a0a6ddd2a,ORD37784,CUST0475,New Darius,MO,East Michael,PW,FedEx,Standard,2025-01-14
+430c2748-f962-4148-b1ae-ea7f34b3ae4f,ORD32389,CUST7034,New Joseburgh,MH,Ingramburgh,VA,Amazon Logistics,Standard,2025-01-28
+87e100a5-0119-4265-a148-56973b65379a,ORD18342,CUST7269,Kimberlyview,MO,Port Jasminefurt,WY,UPS,Standard,2025-01-07
+25cf1298-19d3-47ba-92c1-c4ceb0a325f4,ORD97391,CUST3554,Lake Jonathanborough,ME,Carpenterchester,WI,Amazon Logistics,Same-Day,2025-01-10
+c2cf30ea-8dde-4e1c-adfe-1a111ac5ecd0,ORD86319,CUST1316,Carlsonberg,MI,Stevenville,OR,FedEx,Same-Day,2025-01-27
+08d0d4cc-d61d-4ddd-a46e-729e5198fc8f,ORD00771,CUST3958,Jonathanland,DE,Johnburgh,MP,UPS,Standard,2025-01-24
+3ada6e91-572e-4016-919d-2cb1b09e501a,ORD06493,CUST8236,Taylorberg,RI,Lake Lynnberg,AZ,UPS,Same-Day,2025-01-14
+aa4f22e6-4797-4a51-b51d-fab2bb7b2fb6,ORD08579,CUST5970,Jeffersontown,OH,Lake Corey,VI,Amazon Logistics,Standard,2025-01-13
+6b6ea638-3e33-4d89-b387-393f3a1adca2,ORD21077,CUST8508,Johnport,OR,East Dawn,ND,FedEx,Same-Day,2025-01-15
+d2378b44-6aff-4fca-8bbd-9ea1f8b0f198,ORD24050,CUST4826,Rasmussenton,SC,Lake Angelaview,AS,UPS,Same-Day,2025-01-25
+bca605ed-400e-4fae-ac21-a001ab0a9fda,ORD83205,CUST1899,North Jennifershire,UT,North Bethany,MT,FedEx,Same-Day,2025-01-03
+894f7885-f875-4cba-a382-67a7616507b8,ORD02561,CUST0481,Sotofurt,MO,Christinafort,NY,Amazon Logistics,Same-Day,2025-01-21
+c66025ca-b7d5-4c59-a143-cc763aac52b7,ORD90309,CUST3898,South John,SD,Stevenport,AS,UPS,Two-Day,2025-01-09
+2bbeca16-5aaf-4f33-8a1f-7dadb7d46514,ORD93862,CUST4306,Shannonborough,NY,Lake Andrew,HI,Amazon Logistics,Two-Day,2025-01-01
+4aa02d34-cf09-4a8a-b7e6-f3439bc73272,ORD76899,CUST6446,Heathermouth,NY,Philipberg,GU,Amazon Logistics,Standard,2025-01-30
+20c21fb2-faf1-4116-bd7e-38c01578ae76,ORD07474,CUST1854,Meganfurt,VI,Duncanton,IA,UPS,Standard,2025-01-17
+adb85b08-115c-4a31-b162-74c43f526f28,ORD93967,CUST8503,North Mary,GU,Brownside,KY,FedEx,Standard,2025-01-27
+509ba58b-a030-4bfc-abe1-a04c7d463f68,ORD18427,CUST4318,New Nancy,FL,Ortizberg,KY,UPS,Standard,2025-01-06
+541bdc20-4cc2-46ff-8965-cb849d0d0f09,ORD27568,CUST8223,Port Alisonfort,NH,West Davidchester,TN,FedEx,Same-Day,2025-01-12
+0f857a92-b4c9-4c46-8e4c-52c40c855091,ORD07868,CUST1924,North Christopher,OR,East Darylside,RI,UPS,Same-Day,2025-01-15
+3058db6a-e604-4748-ae94-1b8e85e88b8f,ORD21054,CUST2697,North Courtneyfort,OK,Carrburgh,CO,UPS,Two-Day,2025-01-09
+dc1d920f-3e73-415b-8de6-5852bdad47c8,ORD46555,CUST8204,Port Jamieton,NM,Wileyland,MP,UPS,Two-Day,2025-01-31
+eba30b8f-db35-42d9-b20c-07f35f197e2a,ORD55156,CUST7847,Lake Stephenview,UT,New Tashastad,MT,FedEx,Standard,2025-01-01
+9ff9ccb3-f32e-4e97-8574-536368a527a2,ORD87450,CUST3735,Hickmanhaven,NY,Solomonport,CT,Amazon Logistics,Two-Day,2025-01-10
+0da8fac9-4740-47c0-a077-6417e69a8897,ORD52507,CUST3991,Crawfordville,DE,Lake Katiefort,IA,Amazon Logistics,Standard,2025-01-17
+3fad84ac-c542-4734-8e1b-57586642306b,ORD28296,CUST5680,Port Shannonbury,IN,South Markville,SC,Amazon Logistics,Same-Day,2025-01-08
+3a9a0392-4805-4b8d-abed-f5724943ffa7,ORD43929,CUST5387,Meghanport,NM,East Walterville,KY,Amazon Logistics,Two-Day,2025-01-10
+bcb6f605-d0c5-4a4a-85f2-cc77b37f6c0b,ORD86445,CUST0363,East Laurie,AL,North Denisemouth,CT,FedEx,Same-Day,2025-01-09
+210ec7c2-45eb-42f3-be34-2c1ab50d8a71,ORD60893,CUST4212,Aaronmouth,AR,Hernandezbury,OK,UPS,Two-Day,2025-01-16
+a674259f-c125-4a60-8310-7d8aa9a59b8c,ORD33061,CUST3880,Millertown,PA,Georgehaven,MT,Amazon Logistics,Standard,2025-01-23
+3d968c32-adc3-4285-a685-73c3553bb6f0,ORD95149,CUST9006,Wheelerfurt,AS,Dianebury,NM,Amazon Logistics,Standard,2025-01-08
+2fd28272-0eec-4b09-9bcd-fd395efeba59,ORD54303,CUST9957,Briannaport,LA,East Seanfurt,MT,Amazon Logistics,Same-Day,2025-01-28
+6d3f1503-5c96-43f3-a3cb-cd0b36a679a5,ORD48200,CUST5230,Wagnerberg,FL,South Ryanview,MD,UPS,Same-Day,2025-01-17
+62c589ac-bd55-4932-ae39-6eef8d9072f8,ORD70763,CUST3525,New Mark,AL,North James,CO,UPS,Same-Day,2025-01-16
+735a9560-8289-41f4-a2aa-297282b7f363,ORD90144,CUST8297,Lake Kimberlyfort,OH,New Andreamouth,MP,Amazon Logistics,Standard,2025-01-07
+3a7e0424-bdb8-42a1-bbe1-4df472ba0a8f,ORD71691,CUST4613,North Vanessa,MP,Matthewborough,KS,Amazon Logistics,Two-Day,2025-01-29
+ded0676a-674c-4549-a307-5b76169947c8,ORD97367,CUST6899,New Andrechester,SC,Benderhaven,CT,FedEx,Standard,2025-01-18
+52e2b8a0-be11-46d5-8e66-7ba779d327d3,ORD33494,CUST3123,Timothyberg,AZ,New Mariaport,IA,UPS,Standard,2025-01-17
+ce4c5fb9-6c76-47cd-a8af-eaace97ffe6a,ORD00921,CUST6854,Westburgh,WA,Seanmouth,OK,Amazon Logistics,Standard,2025-01-25
+5a6a9874-8422-4d04-a4a4-b97a81050419,ORD58799,CUST1267,East Brian,AL,Jenniferborough,MI,Amazon Logistics,Two-Day,2025-01-17
+4aa86e34-b731-4771-be7c-f101a0b35966,ORD04357,CUST5813,West Vanessaton,VI,South Christophermouth,NM,UPS,Two-Day,2025-01-11
+020901c7-3332-4aae-b25f-646b3037bfd6,ORD78034,CUST8342,North Staceyland,GU,Lake Jacobhaven,IN,FedEx,Same-Day,2025-01-04
+3af56f76-e7cd-4036-81ba-5fbe2a469ce2,ORD42349,CUST8710,Mathischester,NM,South Daniel,WV,UPS,Standard,2025-01-09
+e44c3122-3836-4428-a96c-82490dcf05ff,ORD28371,CUST9147,Garyfort,PW,West Colinview,NC,Amazon Logistics,Standard,2025-01-16
+f04c9424-c2f1-4327-adde-373ccefcd0be,ORD64490,CUST8864,South Tracy,OK,Robinsontown,MD,FedEx,Same-Day,2025-01-01
+f67abe6d-4c9f-4892-a1e3-5f7a3afa0a30,ORD00104,CUST0093,New Sarah,NC,New Jonathan,MA,UPS,Same-Day,2025-01-31
+d718018e-c527-4bbc-8792-cabdc6101317,ORD81923,CUST1140,Port Brandon,WA,Dustinland,VT,Amazon Logistics,Two-Day,2025-01-24
+b7661a8a-2e09-4aa4-b190-eea3cdd8166e,ORD88846,CUST5400,Tonyafort,MS,New Michelleburgh,OR,Amazon Logistics,Two-Day,2025-01-20
+e7db53e0-9cad-4ff0-808d-390feee23707,ORD83700,CUST1975,Jonathanside,NH,South Kevintown,AR,FedEx,Standard,2025-01-21
+51ff80e6-9cd1-4ace-9ba9-83c3336e6e09,ORD14069,CUST6158,Port Davidfurt,SC,New Ronaldtown,PR,FedEx,Standard,2025-01-25
+85846752-6c30-492f-bc16-02342560f81b,ORD76023,CUST8071,Beckerfurt,KY,East Christopherstad,TN,Amazon Logistics,Standard,2025-01-13
+b90dcbdb-c6ca-48a8-ba8f-70041c0bccbb,ORD45336,CUST6088,Robertsport,OH,Christopherside,AL,Amazon Logistics,Same-Day,2025-01-05
+9271a6bd-bd3e-4f22-8154-7d541255f1d3,ORD04401,CUST3211,Nixonton,WY,East Catherinefort,AR,UPS,Standard,2025-01-23
+f67be8fb-af60-42ed-8c37-e9e4516895e6,ORD83230,CUST3298,West Laura,IA,West Amberburgh,GU,FedEx,Same-Day,2025-01-27
+e63a78e8-bbcb-409f-b26d-079d211aca7f,ORD78333,CUST6121,Tateport,DC,South Katherine,WA,Amazon Logistics,Same-Day,2025-01-19
+a1060ba0-cbc1-4cfa-b720-cacd2670f7f4,ORD55946,CUST6628,Breannaton,AL,Englishberg,VT,UPS,Standard,2025-01-22
+8312c69c-3a28-4d49-a635-dd26919c2db9,ORD77374,CUST6675,Espinozafurt,AR,New Harold,OH,FedEx,Two-Day,2025-01-26
+f0f20d3f-ee7c-4c11-88d8-154ffecded95,ORD89321,CUST6845,Reidtown,GA,Port Michelleborough,DE,UPS,Two-Day,2025-01-06
+5c8da03c-dd02-4d41-bfc4-8672781daa83,ORD32978,CUST1815,Jasonstad,TX,New Lauramouth,WA,Amazon Logistics,Two-Day,2025-01-09
+52bd9097-a50d-4315-9df0-da05a2003aa6,ORD35681,CUST4354,Rodriguezborough,PA,Jennaview,CO,Amazon Logistics,Standard,2025-01-29
+c83fb3a3-1007-4b08-83a5-36a84979e715,ORD00116,CUST7890,Grantfurt,AS,Hickmanshire,IA,UPS,Two-Day,2025-01-03
+b4f019e8-252a-4cf9-80f1-b4a49bff61f3,ORD92316,CUST5854,Lake Margaret,NC,Johnsonview,SC,UPS,Same-Day,2025-01-22
+407c3f8c-7ca4-4453-8bfe-21a9d303ee62,ORD39883,CUST4797,Michellechester,MO,Amandaland,NV,FedEx,Standard,2025-01-13
+22b7e5b3-33dc-4287-8e64-58755db00a1b,ORD72961,CUST5708,Port Dillon,VT,Justinview,IA,Amazon Logistics,Two-Day,2025-01-31
+955cfab9-3ff5-47f5-9d04-3dc9631e32e5,ORD57822,CUST0489,Port Karenbury,WA,New Nicoleland,ND,FedEx,Standard,2025-01-27
+9404d149-23ce-403e-a11c-555d2382354f,ORD01652,CUST8569,Avilamouth,VI,West Meredithside,OH,Amazon Logistics,Standard,2025-01-06
+4afefd5c-76c9-41bc-a86a-ba1c8440b1e3,ORD52725,CUST5413,Stevenfurt,AL,New Traci,OR,FedEx,Two-Day,2025-01-29
+ccc9e6dc-1023-413e-9add-d40b1751d615,ORD86606,CUST1785,West Jennifer,AZ,New Victorside,DC,UPS,Standard,2025-01-24
+914309d1-e371-4cad-b4d2-4dfcaad0fa1d,ORD49016,CUST2189,Walshport,WA,West Alyssaville,NY,Amazon Logistics,Standard,2025-01-22
+793fd468-0ae0-4e47-95a5-6867744bef25,ORD11252,CUST5777,New Rickeyberg,GA,South Kevinland,VI,Amazon Logistics,Standard,2025-01-11
+e56602e3-ad43-49b8-a668-ff2cbcd8a067,ORD29788,CUST4457,Lake Adamberg,OR,Santoston,NY,UPS,Same-Day,2025-01-22
+42d60294-e6bb-4a65-9504-d93491a32a53,ORD07336,CUST2479,West Donna,CO,Brianview,OK,Amazon Logistics,Two-Day,2025-01-18
+7efd0da8-f495-4320-8761-854ca251f901,ORD00187,CUST4706,East Paulside,PW,Freemanfort,MS,UPS,Same-Day,2025-01-30
+20e8fad5-83a3-4a84-bdbe-e743b6c7bd4a,ORD98065,CUST8744,Andrewfort,NY,North Jasminehaven,MT,FedEx,Standard,2025-01-20
+d62cd993-7323-43f0-9a2f-226bb10edc59,ORD41247,CUST2554,Gonzaleston,VT,New Saraland,AL,FedEx,Standard,2025-01-05
+2893fea7-15a1-4972-915d-8a4546f457cf,ORD65825,CUST6777,Port Zacharyburgh,FM,Lake Thomas,KS,UPS,Two-Day,2025-01-27
+7fd5b10e-6f57-4a27-85b2-a690db2121de,ORD56769,CUST6678,Garrettville,VA,West James,NE,UPS,Two-Day,2025-01-01
+83398298-7a78-4e25-9459-11be3c020c80,ORD30124,CUST3736,West Nicholasville,TX,North Jonathanchester,MN,UPS,Standard,2025-01-27
+1b5f131d-0c70-4055-8d67-0e6804aa881b,ORD77152,CUST5354,West Tinaside,MN,Penamouth,MH,FedEx,Standard,2025-01-03
+7dd661eb-69b2-4cea-8250-684939b93d60,ORD80062,CUST5921,West David,IL,Davisfurt,CT,Amazon Logistics,Same-Day,2025-01-02
+097184df-70eb-45b6-8d6b-924f3aa5cdcd,ORD61686,CUST3974,New Diana,SD,Wagnerhaven,AR,Amazon Logistics,Same-Day,2025-01-10
+8fc99c46-51cb-4d4d-987b-96b37a5de360,ORD29632,CUST3014,Port Melissaburgh,NC,Johnsonhaven,DE,FedEx,Standard,2025-01-04
+943ae137-def0-4ded-a3d4-0f6c560537ad,ORD83947,CUST3061,Seanview,KS,South Marystad,TX,FedEx,Two-Day,2025-01-17
+c3b15f15-b994-4e35-836f-606536587764,ORD16350,CUST4826,Port Brianfurt,CO,Lake Beckyside,ID,Amazon Logistics,Same-Day,2025-01-30
+4c5bffbd-3660-4d11-b2ee-3c6ae2b3d9f1,ORD77762,CUST7670,South Troy,MA,South Maryhaven,KS,FedEx,Standard,2025-01-30
+2c04c8e7-0ffd-4785-b7cd-780c27ef3f37,ORD81676,CUST9385,Fischerton,HI,Lake Samanthaton,GA,Amazon Logistics,Two-Day,2025-01-16
+b81c8462-b014-4d5e-b536-5339a8f22b8c,ORD78805,CUST5085,Kimshire,HI,Larsenstad,PR,FedEx,Two-Day,2025-01-26
+ae558372-0967-4833-b09d-5818b5a0dee2,ORD23812,CUST0837,Shaneborough,ME,Lake Christopherville,ID,UPS,Standard,2025-01-20
+a2182cc0-f232-4335-8c7f-5bc12ea3bb63,ORD41671,CUST6899,Jacksonview,WY,Burchview,OH,Amazon Logistics,Two-Day,2025-01-01
+50564206-9b6b-44ad-a916-6c3f455b9b85,ORD53813,CUST6437,Rogerston,IA,Michelefurt,SC,UPS,Same-Day,2025-01-07
+92e3fcaa-4dd3-47ef-8d1b-edd30469a4bc,ORD97801,CUST0202,Toniview,DC,Cherylmouth,OK,Amazon Logistics,Same-Day,2025-01-26
+6e67835f-3a74-40d8-b009-960045df3874,ORD07282,CUST3524,West Jennifer,AR,Shawtown,IN,Amazon Logistics,Two-Day,2025-01-12
+98b9de05-abfb-4a46-9727-5058a5dca4d3,ORD95060,CUST3950,South Julieton,ME,Pamville,NY,UPS,Same-Day,2025-01-30
+2d97103d-5927-454b-9a0b-4f38863f8e4f,ORD65182,CUST5936,Port Daniel,NM,East Justinbury,KS,Amazon Logistics,Same-Day,2025-01-30
+f5f9f85a-7b2b-4532-a78c-cdc3e7ea28ea,ORD57029,CUST2537,Obrienhaven,AK,Port Davidborough,DC,FedEx,Standard,2025-01-22
+cfa9458f-660c-4c03-a2d0-99aa368b6a72,ORD65589,CUST6608,Port Christopherhaven,OR,Ryanhaven,MH,UPS,Same-Day,2025-01-24
+add2d91a-f8f1-42a2-a7cf-eeb259927d3c,ORD13093,CUST6912,Port Beckyville,VI,East John,AL,UPS,Same-Day,2025-01-05
+f51fd495-a54c-4dbb-b9ea-96a3a5fef31c,ORD43388,CUST0267,South Kara,PA,South Sara,CA,UPS,Two-Day,2025-01-17
+5ef0dd84-e338-4c91-8bbf-981c36089465,ORD38416,CUST6541,Port Douglas,AS,South Amanda,MN,UPS,Same-Day,2025-01-22
+ffe86d66-fd6f-4778-b4dc-f8e8cdc7b515,ORD41201,CUST6575,Lake Shannon,AK,South Thomasmouth,LA,Amazon Logistics,Two-Day,2025-01-27
+5f87f5f5-2ea7-4692-9455-5852af78c386,ORD21360,CUST1832,Lake Brianview,LA,Port Jessica,FM,UPS,Same-Day,2025-01-27
+92caabd6-ca63-4d2a-a49c-3abfeff8dd5c,ORD44545,CUST7241,South Juliestad,KS,Nicoletown,WY,UPS,Same-Day,2025-01-23
+2ec12ea2-8cd0-4975-96ba-c3e06c84f94e,ORD67016,CUST7698,Doughertymouth,PR,Butlerbury,CO,FedEx,Standard,2025-01-31
+31404a94-c17f-4912-a441-da7bc3c0346a,ORD75202,CUST5221,North Kylehaven,GA,Maryside,PA,Amazon Logistics,Standard,2025-01-21
+134cc702-05e9-4d17-a6bb-0128590d4cc5,ORD11845,CUST4489,Sullivanville,KY,Kristinstad,WA,FedEx,Two-Day,2025-01-24
+ea53be5f-c32c-4c4d-a783-c88380513633,ORD14888,CUST4241,Jenkinsborough,AS,South Stacytown,WV,FedEx,Same-Day,2025-01-19
+dd5002c2-bea1-411a-a322-fb8f34286552,ORD58514,CUST6299,South Georgestad,PW,Amybury,IN,UPS,Standard,2025-01-05
+f8d6e71f-1b8d-4ac3-a71d-aea18eae4de2,ORD65491,CUST9175,Turnerfort,GA,Hessburgh,AK,UPS,Standard,2025-01-07
+97006cc3-4734-4845-b9b5-0a10fda531b3,ORD23251,CUST9168,East Ethanstad,CO,West Thomasside,DC,FedEx,Standard,2025-01-24
+d81268bc-e9de-40e3-9ff7-6baefcb64edf,ORD73521,CUST7926,South Brent,NH,West Evan,RI,UPS,Two-Day,2025-01-18
+6b309ef8-3a00-4644-8e1c-e1172b3ad70e,ORD23201,CUST1607,West Terrancestad,WV,West Heather,IL,FedEx,Same-Day,2025-01-19
+6520509e-ad4c-4db8-9a27-8a4ffb514535,ORD62295,CUST8796,New Colinchester,AZ,Dennismouth,PR,Amazon Logistics,Same-Day,2025-01-24
+223d68f6-a927-4a6b-a894-c9b52343b018,ORD86256,CUST6147,Hicksville,HI,Nancyborough,DE,Amazon Logistics,Two-Day,2025-01-22
+36bf0787-c283-4eff-adac-4f8219ce8bb7,ORD51682,CUST5205,Lake Debbiechester,IA,Keithport,PW,FedEx,Two-Day,2025-01-25
+5b385f16-2ba9-483f-a85c-3a368bd201e2,ORD06135,CUST2422,South Carlaland,NY,Jamieview,LA,UPS,Two-Day,2025-01-19
+966f085b-2919-417d-86e5-6884eaa0b010,ORD74806,CUST8366,North Patricia,CA,Dillonmouth,VI,Amazon Logistics,Two-Day,2025-01-27
+cd5449fa-2bb0-4edd-bfef-05b4272ae9da,ORD42289,CUST4864,North Caitlin,OH,Edwardberg,NJ,UPS,Same-Day,2025-01-26
+ce857b13-de63-4a55-930b-4a65d1f2fcba,ORD85207,CUST1013,South Gregory,HI,South Daniellechester,AR,FedEx,Standard,2025-01-03
+c52a6e5c-07cc-43ce-b8f5-75d842f75209,ORD56345,CUST6910,Lake Emmatown,RI,Marystad,AZ,FedEx,Same-Day,2025-01-11
+533c1670-80c7-4d5b-9d19-47f299dfd2cb,ORD18406,CUST2089,Boydview,IN,Douglashaven,WI,Amazon Logistics,Same-Day,2025-01-10
+1b4a700c-b93e-4e38-b82a-e8530b1b7070,ORD68238,CUST0103,Billside,DC,Lake Bryanburgh,HI,FedEx,Two-Day,2025-01-24
+df301e72-bf39-4fa0-9e0e-9a2a8b776ea7,ORD16383,CUST0967,West Jason,NE,New Karenville,VI,UPS,Same-Day,2025-01-15
+5c132cf8-63f3-4fc9-811a-dd9d93dd64f8,ORD00930,CUST0334,North Stephanie,MD,North Lauren,FL,FedEx,Standard,2025-01-01
+98dd0303-77a3-4fa8-a69e-07255267e0eb,ORD60573,CUST7328,South Joshuatown,MA,Port Allison,HI,Amazon Logistics,Same-Day,2025-01-20
+512fd257-c131-4fbc-a92d-add7078da0ea,ORD47170,CUST2876,Alexanderstad,AZ,Randyborough,ME,UPS,Standard,2025-01-02
+32bbb222-f9ca-4f0b-9027-4e675ab901eb,ORD86131,CUST2257,Justinview,VA,Gonzalezview,IN,FedEx,Same-Day,2025-01-11
+43b5e0be-7aa8-4373-bfef-62239484d012,ORD22858,CUST4425,New Marcus,MO,North Heather,VI,Amazon Logistics,Two-Day,2025-01-09
+5d0ea1da-068a-46ee-bf03-6fb428381025,ORD90240,CUST4526,Port Kevinton,RI,Mitchellfort,ND,FedEx,Standard,2025-01-22
+22e21594-e794-4f4d-bdc2-e13f3e1dfd7c,ORD94270,CUST2676,Alisonmouth,FL,New Melissa,IA,Amazon Logistics,Same-Day,2025-01-05
+44026193-318b-456e-847a-840f2ea6ba39,ORD35584,CUST9702,Aguilarchester,OR,Harveyshire,VT,UPS,Two-Day,2025-01-25
+422ac108-85df-4584-b9b2-8c979cd22cc7,ORD65009,CUST3752,Andersonstad,MN,West Taylor,PW,Amazon Logistics,Standard,2025-01-16
+828a2668-1c17-47d7-81b6-8738b7fffa58,ORD12300,CUST2306,West Corey,WA,Ashleyview,VA,UPS,Two-Day,2025-01-24
+21b92718-630a-4703-b571-fcc80159c2a7,ORD98082,CUST7649,Stewartberg,WV,South Nicole,RI,UPS,Standard,2025-01-14
+93098ff8-50f5-4a8d-97a2-ecf84e880974,ORD54737,CUST2282,Katrinaport,MI,Lake Daniel,NE,Amazon Logistics,Two-Day,2025-01-10
+d9b9361f-d5bb-443d-b74b-2e0082e9852f,ORD40623,CUST1769,Gutierrezstad,CO,South Aliciaberg,CO,Amazon Logistics,Same-Day,2025-01-27
+a45d75ba-0632-40ed-b47f-80c8bdf07f78,ORD35443,CUST9925,Marissaport,WY,Littletown,PW,UPS,Standard,2025-01-20
+28449e5e-240c-4b86-be3d-a0213de8f304,ORD24239,CUST9869,New Ashley,TX,Dianefurt,MS,FedEx,Standard,2025-01-01
+7e3a2b2f-4ecf-467e-83f8-d919ee38518f,ORD31576,CUST8282,Brittanychester,NJ,Nortonchester,AK,FedEx,Standard,2025-01-25
+fee99775-56ba-485c-82fc-628e3ffd79e9,ORD05138,CUST5728,Rodgersfort,MA,East Dianemouth,FL,UPS,Same-Day,2025-01-07
+c5470b5c-c58f-4f84-8eec-3d7687e07faf,ORD32841,CUST3067,Morganmouth,ID,New Elaine,NY,Amazon Logistics,Standard,2025-01-07
+5dd3ee17-5c4f-4022-8c32-d39ebb196437,ORD45924,CUST1347,New Ian,AR,West Katrina,NM,FedEx,Same-Day,2025-01-18
+b2f96e3f-8ccd-49cb-bc68-0ee2e1ea5f04,ORD45582,CUST4014,New John,IL,Port Logan,LA,FedEx,Same-Day,2025-01-28
+bb023063-ffa3-49d6-af37-7587065c58f2,ORD51860,CUST0660,West Briantown,MI,Rubioberg,MS,UPS,Two-Day,2025-01-17
+3d1f1bfa-d1c6-4f94-a78c-7770ed0e4450,ORD12557,CUST7649,Irwintown,OR,Maryhaven,VI,Amazon Logistics,Same-Day,2025-01-05
+3804ab0b-e813-40e6-ae38-0cd9f3b4347f,ORD37991,CUST5497,Port Eric,NY,Millerborough,AZ,Amazon Logistics,Same-Day,2025-01-20
+34e97c96-7939-4e72-9545-fdf32489e242,ORD69741,CUST8198,South Charles,MO,Port Roberttown,MS,FedEx,Two-Day,2025-01-05
+383ed210-244f-4ab3-8e14-73143dae94dd,ORD22052,CUST0814,East Cheryl,DE,Johnstad,MI,Amazon Logistics,Same-Day,2025-01-07
+4319a603-69dd-4b25-a8cd-3ff8593bc79c,ORD33619,CUST2908,Daltonton,IN,Coxville,AK,FedEx,Standard,2025-01-06
+34de9d14-e992-41a9-a24d-32d982820e39,ORD04320,CUST3470,New Terrihaven,FM,North Ianfurt,NC,Amazon Logistics,Two-Day,2025-01-15
+d2fa9248-3da8-41a6-acce-897be6a4df08,ORD33961,CUST9652,South Jessicaburgh,DC,New Patriciastad,DC,FedEx,Standard,2025-01-09
+01a14d59-0ad7-44f6-a5b9-ddf4ab39c5db,ORD32519,CUST0242,Mcmahonview,KS,Port David,AZ,Amazon Logistics,Same-Day,2025-01-15
+e19c25d7-4619-44c2-94b2-37b2b28058e2,ORD69227,CUST5078,Port Madison,IA,North Kimberly,MN,FedEx,Two-Day,2025-01-21
+ac87755c-716a-43b2-a30a-1d8de141b156,ORD99712,CUST6886,Allenton,KY,Santiagoview,FM,FedEx,Same-Day,2025-01-10
+4778c535-cb03-4792-98d1-2ccd8bffa93b,ORD91400,CUST2219,Lake Benjaminfort,OR,Lake Davidbury,NJ,Amazon Logistics,Standard,2025-01-07
+b0924a85-adad-49c8-a9fe-121e4c3ea651,ORD47784,CUST2899,Hudsonville,MD,Smithhaven,VT,FedEx,Same-Day,2025-01-14
+f4b015f7-65d3-46ba-919f-b4a438f4af41,ORD78095,CUST8467,Davidhaven,MT,Lake Alexisport,KS,UPS,Two-Day,2025-01-10
+92e99159-e937-42dd-90c2-5a0d5668d36f,ORD72907,CUST0121,North Kyle,WY,Rachelfort,GA,Amazon Logistics,Same-Day,2025-01-16
+306b9195-3cc2-4653-8525-4e3efa831ac4,ORD08725,CUST8791,East Amber,CO,New Jackiefort,WY,FedEx,Two-Day,2025-01-11
+06ce8d92-3b8f-41ac-a781-b8e935ffba81,ORD45039,CUST2106,Port Craigtown,ND,Sanchezton,FM,UPS,Two-Day,2025-01-23
+d8cef4d5-8109-4d42-b3af-8e36d37f06ad,ORD23539,CUST6793,North Jamieton,TX,Port Todd,DE,UPS,Same-Day,2025-01-25
+5784d5c1-a95a-4b53-8684-9dbb44958340,ORD60494,CUST3335,Port Maurice,TN,Amberton,ME,UPS,Same-Day,2025-01-19
+61ae3d76-3887-4bfa-99d1-661f0c363b82,ORD49500,CUST3286,Robertsonfort,ME,Port Elizabethstad,MP,FedEx,Standard,2025-01-03
+5965899e-cc5e-4da9-9a3b-bf372e5c913d,ORD16953,CUST6544,Angelamouth,VT,East Timothychester,IL,Amazon Logistics,Same-Day,2025-01-15
+f4a478a6-2c91-4e24-a432-86ebe2cdf694,ORD53127,CUST3128,Welchfort,RI,West Danielfurt,NE,FedEx,Same-Day,2025-01-14
+789dbfca-84bd-4d36-a7c0-325f53e40484,ORD79087,CUST5747,North Sarahshire,MN,East Davidmouth,NE,FedEx,Two-Day,2025-01-19
+6a3235f3-3159-4b23-837a-5bc3b83569ec,ORD99687,CUST3925,Gabrielchester,MA,North Kristopher,RI,Amazon Logistics,Two-Day,2025-01-27
+0d4b7d7a-b6cb-4561-a38d-b64ac078ee20,ORD24063,CUST5565,East Nicholasbury,RI,Contrerasstad,PA,UPS,Two-Day,2025-01-15
+839dee18-094d-4ff8-9fa3-4312bb454caf,ORD30035,CUST7623,Leeburgh,MI,Port Tony,ID,UPS,Same-Day,2025-01-12
+32078f5a-26c2-4e23-8689-ac13af8a7363,ORD94135,CUST9205,South Eric,NE,North Royshire,DE,Amazon Logistics,Standard,2025-01-05
+af1d68e7-63c9-4aa1-8316-61b9d6802320,ORD05625,CUST3144,Thomasborough,IA,Salashaven,FM,Amazon Logistics,Standard,2025-01-06
+26cb8eb8-248c-4251-8ca1-8c70677a7f35,ORD74655,CUST7803,New Michele,NH,Robertland,DC,UPS,Two-Day,2025-01-19
+ef7eae09-4b17-43ff-99d6-f938a2ad255b,ORD35839,CUST7155,North Saraport,GU,Gordonside,RI,UPS,Two-Day,2025-01-07
+356dc43b-4070-4058-a7c0-dd20f22c3aa7,ORD74866,CUST1162,Matthewsbury,KS,Port Bradleyport,IL,Amazon Logistics,Same-Day,2025-01-20
+66d80c89-1188-4c6a-8897-11c0f83f2518,ORD99996,CUST3868,South Brandon,NC,West Steven,MP,UPS,Same-Day,2025-01-22
+16ab06e6-9813-432e-8e1e-2e2180661861,ORD31608,CUST7932,New Jesusfort,WI,Johnsonland,MN,Amazon Logistics,Two-Day,2025-01-22
+4ad671ec-6bac-4d91-855b-12c6a6690a5d,ORD29419,CUST6012,Chadland,NM,Kellyburgh,DE,Amazon Logistics,Same-Day,2025-01-22
+6789e34f-1489-4ce1-909c-e254ab2abc64,ORD78746,CUST8398,Mendozaville,VI,Port Robert,CT,FedEx,Two-Day,2025-01-11
+9c1700e5-7b67-4da8-9f7f-92e7aa8978c9,ORD10524,CUST2621,Matthewshire,SD,Melissaton,CA,Amazon Logistics,Two-Day,2025-01-20
+e4b0bf70-e9ae-4bf1-8e78-f5cc01110184,ORD80564,CUST3480,Georgeberg,OH,North Duane,NH,FedEx,Same-Day,2025-01-18
+52f15afe-cb77-485c-800c-47e32a27bb13,ORD01263,CUST3913,New Julie,TX,North Rebecca,FM,Amazon Logistics,Two-Day,2025-01-06
+fa4f6b88-24a5-46b4-9984-97cdf32faed4,ORD29085,CUST2384,West Eric,IN,East Ashley,CA,Amazon Logistics,Two-Day,2025-01-19
+26715b24-22d4-44c8-86d5-8ee12eb71fd1,ORD18962,CUST0518,Acostashire,DC,Angelaville,UT,Amazon Logistics,Same-Day,2025-01-20
+053c3776-bb40-494f-b0af-fec221f07371,ORD04015,CUST2633,Kristinafurt,MS,North Amandamouth,TN,Amazon Logistics,Same-Day,2025-01-23
+981f24d4-cdea-4f75-86b9-fb47b15f96d6,ORD93491,CUST7361,West Pamelastad,ID,Walkerview,AR,UPS,Two-Day,2025-01-09
+9086986a-bf16-4af4-8126-e21975d93b6d,ORD00949,CUST2559,Johnsonbury,NY,Williamsstad,AS,Amazon Logistics,Two-Day,2025-01-31
+a7913de6-9d78-4855-a043-1e7c90b53314,ORD52083,CUST6943,West Wesleymouth,AS,Port Alexmouth,NM,UPS,Same-Day,2025-01-16
+ad7797a1-aba5-4217-a075-63c63370f16d,ORD38521,CUST1874,Lake Michaelborough,LA,North Brianchester,WY,FedEx,Two-Day,2025-01-08
+0a16ea88-e139-4e76-82f6-c46796916312,ORD45234,CUST0103,Scottville,ND,East Michael,ND,Amazon Logistics,Two-Day,2025-01-28
+ca5e15ad-6dd4-426e-957c-01d3028a7cf8,ORD55916,CUST5168,Mckinneyview,CO,West Stephanie,MI,UPS,Two-Day,2025-01-23
+a6a1e9eb-6e27-4216-9419-88423c2553d4,ORD42008,CUST9796,South Josephborough,MS,Laurashire,KS,UPS,Two-Day,2025-01-29
+1aacc28e-6483-47ea-a857-ae67ce76ebd2,ORD64635,CUST9287,Jenniferport,WI,West Autumn,AR,FedEx,Same-Day,2025-01-12
+f236ef69-6a13-4aa9-9efb-39483db36358,ORD61443,CUST5742,Katelynbury,WV,New Ashleyville,OH,FedEx,Standard,2025-01-18
+b851bbda-6312-412e-9418-87c51f49b3d4,ORD27981,CUST5249,Simmonsborough,VI,West Courtney,GA,Amazon Logistics,Standard,2025-01-30
+04459bd0-3bd1-4dbf-85b1-8efa60f97a54,ORD38902,CUST4528,West Lindaside,PA,Juliefurt,GU,Amazon Logistics,Two-Day,2025-01-06
+738f5845-17af-4cd6-a61b-b02e6f57fea9,ORD14241,CUST1033,New Patriciamouth,DC,West Erin,GA,UPS,Standard,2025-01-04
+89c2d263-3db8-43ae-b049-9b552cab266c,ORD30307,CUST8147,New Jeremy,CT,Victoriamouth,NM,Amazon Logistics,Same-Day,2025-01-18
+c2074ec6-52d1-4264-ba73-3dd3d054a49a,ORD65220,CUST7897,Westbury,MH,West Crystal,KY,Amazon Logistics,Standard,2025-01-31
+84e2e4e8-5e9a-4a36-9ae5-fb9ce677ed2e,ORD92257,CUST8364,Robertsburgh,MD,South Sarah,WA,Amazon Logistics,Two-Day,2025-01-12
+111491a7-0a27-4fd6-a318-e3abc42b5c7e,ORD86890,CUST6720,Carlybury,WA,New Ryanfurt,LA,FedEx,Standard,2025-01-21
+6f5590ec-c494-4dfa-87d4-43e0c02f1e5e,ORD20984,CUST2510,New Melissa,TX,Andrewsborough,WY,UPS,Same-Day,2025-01-13
+a862465e-5c98-4bbb-b7db-0b26aa2caf8e,ORD43273,CUST9876,Higginsside,ID,Johnmouth,GA,FedEx,Standard,2025-01-01
+a8ac6f87-594c-4de3-9efe-ca67683d5d45,ORD98375,CUST4185,South Alex,VA,Chavezville,ME,Amazon Logistics,Two-Day,2025-01-02
+25ee495c-a405-4184-85fc-6239600e096e,ORD36769,CUST3450,Chasemouth,ND,Paynechester,AK,UPS,Two-Day,2025-01-18
+ba0bef6e-66b9-428d-86fa-f9fd33177329,ORD02783,CUST2235,North Glenn,AZ,Lake Paul,WA,Amazon Logistics,Two-Day,2025-01-31
+54681cc9-83ce-48f5-b12e-45a6a6c9d2e8,ORD21499,CUST9289,Nixonberg,MO,Davidville,MH,FedEx,Standard,2025-01-16
+6d076da7-32f9-4825-b498-21866d9af7e3,ORD76638,CUST1133,Bellmouth,HI,West Michael,NV,FedEx,Standard,2025-01-05
+4bf318c8-38eb-470a-a928-01b5d315d5d0,ORD22983,CUST7324,Kirbyberg,PA,West Cassiemouth,KY,FedEx,Standard,2025-01-11
+54380137-779a-4107-a2a9-333d63de061c,ORD39237,CUST5774,New Matthewtown,NH,Mitchellshire,DC,FedEx,Two-Day,2025-01-03
+5a170e44-2cac-4e85-92e3-66a7ae5d1b51,ORD51489,CUST5437,Cassandraton,WV,Brookeberg,NM,UPS,Two-Day,2025-01-03
+f51ef4bb-952f-412e-b014-99ca96668a79,ORD83402,CUST7108,Vargasshire,MO,Jonesmouth,FM,UPS,Same-Day,2025-01-11
+7154c36c-b2f4-4f93-891d-d8edee7f4bda,ORD33549,CUST5618,Samanthaborough,WI,East Jamestown,KY,UPS,Same-Day,2025-01-19
+9202d408-e2ec-47bb-abf1-88ee7fa3d5a3,ORD70101,CUST4318,South Scottberg,TN,Nathanielborough,OK,Amazon Logistics,Same-Day,2025-01-29
+edb1bc02-28d4-4dc0-9080-33555379d207,ORD90873,CUST4204,Hannahberg,FL,West Julia,NM,FedEx,Two-Day,2025-01-18
+9372c8f2-c01c-43a8-a2f8-800e22442969,ORD59707,CUST9290,West Fernando,MA,Amyville,RI,FedEx,Two-Day,2025-01-31
+5e5f1d28-e464-45b0-af41-173c246992f5,ORD52128,CUST0489,North Tiffanychester,MD,New Josephbury,MD,UPS,Two-Day,2025-01-07
+c55c2894-e215-41c4-959f-9a6d139e7106,ORD80335,CUST9866,Laurenburgh,NV,North Ronaldshire,PW,FedEx,Two-Day,2025-01-26
+45c39566-ef51-4aeb-a03e-0bcc5abf49c2,ORD11496,CUST4494,Stephenbury,PR,Lake Leah,NC,FedEx,Two-Day,2025-01-09
+420728f2-03e9-4642-b63d-28a67dbe68ec,ORD25239,CUST6371,Hernandezstad,VT,Lake Robin,MD,Amazon Logistics,Two-Day,2025-01-26
+9e692ec7-4995-4e59-911a-7e44f1951ab4,ORD55634,CUST1952,East Lisafurt,MP,North Scottshire,NV,Amazon Logistics,Standard,2025-01-17
+24cc0b36-fad2-4936-9e2a-18784cc73b14,ORD79779,CUST1298,Hineschester,NC,Mooreville,TX,Amazon Logistics,Two-Day,2025-01-01
+c159bfe1-71dc-4187-8406-3b170c3d5548,ORD04533,CUST3311,Wilsonport,TX,Garcialand,OH,Amazon Logistics,Two-Day,2025-01-25
+581213b7-0607-4e15-9a52-f7db630bb116,ORD31789,CUST7746,East Krystalland,NC,Port Derekburgh,AL,Amazon Logistics,Same-Day,2025-01-25
+ed651ebc-b77a-4226-9ea2-f6836cd4d5f4,ORD56809,CUST0596,Carlosshire,FM,West Robertport,OK,UPS,Same-Day,2025-01-10
+eb1b5c20-1bb1-434b-9fc3-a77585e9a681,ORD60837,CUST2966,New Alison,SD,Rodriguezmouth,PR,Amazon Logistics,Same-Day,2025-01-15
+3425f388-7a52-4cbf-a57c-69df65e5fa10,ORD13261,CUST3243,East Jessicaland,LA,Michaelmouth,VI,UPS,Same-Day,2025-01-07
+12543d27-cfdb-4b53-84b4-9f169c286a1a,ORD94909,CUST1368,Clarkside,CO,Lake Josephton,WI,FedEx,Same-Day,2025-01-27
+b89b68bc-fb19-4250-827f-dd738c70eae7,ORD09063,CUST3992,Ginaland,FL,West Haley,MS,Amazon Logistics,Two-Day,2025-01-06
+3364e657-e279-4803-85ea-616289d52188,ORD48898,CUST7321,New Amy,MD,Jorgechester,MN,Amazon Logistics,Two-Day,2025-01-16
+2ff13b8f-7ffa-45e7-88bf-52b6c7d0b162,ORD11333,CUST4194,West Charles,SD,West Joseville,PA,Amazon Logistics,Standard,2025-01-31
+3a89db32-0c1b-4c54-bfa8-f1a58f329a2f,ORD53311,CUST8136,West Matthewmouth,KS,West Anna,TN,UPS,Two-Day,2025-01-21
+a621f433-994d-444b-abd0-32e3fb55b7bf,ORD20050,CUST0378,Aprilville,WY,New Frederickmouth,GU,Amazon Logistics,Two-Day,2025-01-31
+ab163cdf-794e-49e4-b31c-7226c6bb64dd,ORD45188,CUST0775,Clarkland,MA,East Tylerbury,NY,UPS,Two-Day,2025-01-20
+71e3453a-8e76-4b1b-b1f3-619fe85bab6f,ORD61919,CUST0801,North Sarahland,WA,Frederickborough,OK,FedEx,Two-Day,2025-01-17
+a66a4676-b828-425b-a9af-3b4a0782b648,ORD15331,CUST1825,South Nicholastown,KY,Trevorborough,ND,UPS,Same-Day,2025-01-01
+074319d0-b16c-4748-9139-f304a892ce2f,ORD85009,CUST2024,South Kathryn,UT,Rhondafurt,AL,FedEx,Two-Day,2025-01-30
+b4dff9d3-37cd-4e7f-8689-4a7ee38bc5cb,ORD40983,CUST5778,Lake Kylefurt,MP,Lake Michael,DE,FedEx,Two-Day,2025-01-14
+ccf778c0-01ea-4b3a-8440-f06ae2c5d998,ORD44078,CUST1617,Smithberg,VA,Kyleland,PR,Amazon Logistics,Same-Day,2025-01-04
+1d6326c9-d84d-4365-874a-db46dddf958d,ORD45752,CUST9967,South Stevenfurt,NE,Port Bradley,NE,Amazon Logistics,Standard,2025-01-16
+e76dcfae-6f2c-4d4d-a547-9e8097bf1e86,ORD69109,CUST8367,Rebeccafort,AK,Morrisview,SC,FedEx,Two-Day,2025-01-05
+42b2522c-9928-48ec-8ebc-b210a9e47da8,ORD73065,CUST0636,Davidchester,PW,Herreraview,NM,FedEx,Same-Day,2025-01-27
+b758435e-9650-4877-9dfd-1c5b080e0b86,ORD48897,CUST1902,South Ericborough,IA,Triciastad,OR,UPS,Standard,2025-01-04
+c1a16125-aae9-4a9f-8830-aacab3b564b6,ORD37019,CUST0890,Brownburgh,VI,Matthewmouth,OH,FedEx,Standard,2025-01-15
+7db4319a-08a8-4463-b590-bf1150f51d5f,ORD60861,CUST5769,Perezstad,DC,Port Erica,TX,FedEx,Standard,2025-01-14
+6c64611f-4e2f-4456-85ba-f0472311a85a,ORD22224,CUST0232,New Brooke,GA,Murphyhaven,DE,UPS,Two-Day,2025-01-23
+5727b072-76f2-4f50-a895-98885deeb623,ORD49455,CUST5868,Kevinbury,DE,Washingtonstad,AL,Amazon Logistics,Standard,2025-01-29
+176a5ad8-3558-4b55-84d9-d72929cd1116,ORD41063,CUST2109,Stephanieburgh,TN,Lake Jennifer,CA,UPS,Same-Day,2025-01-12
+04f5e30c-c540-4d10-a0c2-78ea1afa16f7,ORD08406,CUST7220,North Lawrencebury,SD,Doyleton,SC,UPS,Two-Day,2025-01-10
+f389c47e-3ae7-4fc1-b9a8-294e6fca3475,ORD38790,CUST3733,West Dan,PW,Jamesshire,MA,UPS,Same-Day,2025-01-05
+6db4c044-1282-4bfa-9f3a-098d6644078a,ORD46138,CUST5839,Franklinshire,ND,Port Emilyburgh,VA,UPS,Same-Day,2025-01-09
+b7ad223c-9245-4652-a82d-bdfe9d799d1e,ORD69435,CUST1048,New Michael,MP,Port Heather,OK,UPS,Two-Day,2025-01-30
+6adc6342-fb58-4a00-8b29-132148855da5,ORD56401,CUST2894,North Joseph,IN,Melissaview,FL,UPS,Standard,2025-01-15
+70d0d149-721e-4ced-8861-6ce9b0adf30e,ORD19001,CUST6807,Batesbury,CA,Rollinsstad,NY,UPS,Standard,2025-01-31
+523929c1-497d-4c7f-9d76-aa73fdaf5e38,ORD05592,CUST1711,Lake William,LA,Adambury,PR,Amazon Logistics,Two-Day,2025-01-12
+58bd5a7f-b93d-46d6-bdbc-dad2ce185292,ORD57505,CUST1546,New Keithland,ND,West David,NH,UPS,Standard,2025-01-24
+b231c3d7-24d4-46fc-9361-feffac31647e,ORD38123,CUST4393,New Williamberg,VT,East Kennethshire,AZ,UPS,Same-Day,2025-01-10
+3bbe06aa-1345-45bb-ab8c-d69935ae4d41,ORD02911,CUST1184,West Allisonchester,PA,Randyburgh,CO,FedEx,Same-Day,2025-01-17
+da824bbb-b7aa-44d2-8505-31a5bac95dd7,ORD25533,CUST0809,Gregoryshire,OK,Lake John,LA,FedEx,Same-Day,2025-01-24
+ffc7ae14-b3ba-45a2-b92c-eb2d5da89ce3,ORD05296,CUST9166,Floreston,SD,South Jesseshire,WV,UPS,Same-Day,2025-01-21
+cb9d1a56-bc23-4a69-b10b-c0f56cbc9d07,ORD07841,CUST9252,Gregorytown,OK,Gloriabury,OH,Amazon Logistics,Standard,2025-01-29
+4cce5268-3aae-402b-bf6a-31871f4d3622,ORD69382,CUST1496,New Melissatown,FM,Georgechester,KS,FedEx,Standard,2025-01-15
+9881b08f-140d-4c63-bf81-8faafa9b53a8,ORD13385,CUST3844,Murphyborough,NJ,Franklinhaven,MA,FedEx,Two-Day,2025-01-14
+6cb3ac42-e8ac-4ffb-91ee-05f0c647d0a1,ORD99048,CUST5026,South Sarah,ND,North David,UT,FedEx,Standard,2025-01-07
+1f0aee56-d182-4670-966a-0c283846490f,ORD32433,CUST5209,South Thomas,PR,Lindseyport,AL,Amazon Logistics,Standard,2025-01-29
+b9d939bb-b9a2-4a6f-aa08-e2b8066e5a24,ORD80567,CUST1471,East Robynbury,MI,Derekborough,ID,UPS,Standard,2025-01-18
+dc8d21b3-21e6-40c5-9779-326aa48bfdcd,ORD20506,CUST5754,West Morgan,WA,Davidchester,MH,UPS,Same-Day,2025-01-29
+74a014f0-411c-4d9f-89c0-ab2ad101714d,ORD07021,CUST4612,Johnsonburgh,ME,Hallbury,OR,UPS,Standard,2025-01-27
+5a73ecfc-7f84-4d53-a515-e3d2ccdf1758,ORD38311,CUST7907,Christopherport,OR,Jacobsfort,SC,FedEx,Standard,2025-01-25
+e522601f-dd39-4bd5-ad53-47e1ee05104a,ORD20765,CUST0776,South Alicia,PW,Port Lori,MD,UPS,Same-Day,2025-01-18
+3c012bd8-f512-48dc-ada0-638a64259cea,ORD08124,CUST3993,Elizabethchester,AL,East Richard,ND,UPS,Two-Day,2025-01-05
+52f0f24b-b0eb-4be0-b0ef-82b5d7678b12,ORD85040,CUST8567,Andersenburgh,ID,Medinaville,VI,Amazon Logistics,Standard,2025-01-19
+1d9f6a5a-0f54-4485-9071-e17b37547976,ORD54158,CUST7937,Alanshire,VT,Morganshire,IL,FedEx,Standard,2025-01-19
+27362857-8f67-48d5-8874-d82083fb0e31,ORD19840,CUST8530,Port Sandrashire,OR,Port Charlesbury,SD,FedEx,Same-Day,2025-01-25
+fe954866-9934-45dd-9b7f-7598759f8510,ORD43665,CUST8910,Port Gregorystad,GA,Edwardstown,TX,FedEx,Two-Day,2025-01-07
+243e9924-c618-4114-8295-5913d96c2d3e,ORD93834,CUST5089,Lake Kristie,PW,Sandersmouth,VA,Amazon Logistics,Standard,2025-01-09
+1a15aa97-f5c8-460b-b195-87ca9fa2588e,ORD87049,CUST0720,New Robert,OK,Cardenasview,MA,UPS,Two-Day,2025-01-07
+cda57f5d-2127-4ed7-bf5b-1285bfb04af9,ORD31628,CUST2396,Lindamouth,VA,South Colin,KS,UPS,Two-Day,2025-01-10
+2e1ac6fb-1c35-41bb-90a9-824ed949f9be,ORD32387,CUST7057,Port Jennifer,NM,Karenshire,MA,FedEx,Two-Day,2025-01-07
+c7fdee11-1a07-49c6-967e-356dd2dc1bcd,ORD34423,CUST2153,Lake Taraton,AS,Port Helenmouth,GA,Amazon Logistics,Same-Day,2025-01-19
+757f2935-dbf3-4c30-9f0d-39b49aad69ab,ORD36935,CUST8964,Traciburgh,AZ,Morganmouth,WI,FedEx,Standard,2025-01-16
+4fc292b3-59d7-463f-a25c-7ee64b8e8483,ORD55992,CUST8284,East David,MT,South Anthonyside,UT,FedEx,Two-Day,2025-01-08
+ab84416b-8eae-4c08-9916-c6e76627919a,ORD80126,CUST2978,South Claudiachester,MH,Lake Mark,SD,UPS,Standard,2025-01-04
+0a5e24cf-921a-485e-861e-b007a755cab8,ORD58974,CUST2247,North Susanview,GA,South William,IL,UPS,Same-Day,2025-01-12
+ee8a6c63-ecb2-4ee6-8782-fc5750d9f0c3,ORD16564,CUST9660,Rebeccatown,HI,Hunterland,NV,FedEx,Same-Day,2025-01-10
+aca37b38-41a3-4059-a07a-49d153ebcdb5,ORD68699,CUST0763,Michelehaven,NE,West Kevinborough,SD,Amazon Logistics,Two-Day,2025-01-14
+e4bccd4c-11bd-475f-96bb-26a160259128,ORD34609,CUST6255,Norrischester,TX,New Benjaminstad,TN,UPS,Two-Day,2025-01-03
+863b4068-4032-4fcc-ac61-ed49d2e281d3,ORD05905,CUST7456,New Chelsea,NC,Ortizfurt,AZ,UPS,Standard,2025-01-24
+404e205a-7ab0-429a-81d0-2759f138467c,ORD75009,CUST2274,Port Elizabethview,OH,East Marissaberg,CA,UPS,Standard,2025-01-06
+bfe4ac36-cfc2-41bf-a3ee-550763946b1d,ORD73170,CUST9568,Yateschester,NY,Youngburgh,GU,UPS,Standard,2025-01-25
+527e90e7-5880-47eb-af45-032074fcef96,ORD63355,CUST8606,Mitchellmouth,AS,Smithport,UT,Amazon Logistics,Standard,2025-01-29
+c21bf5c1-bce9-4c2c-bdaf-431f36a4b327,ORD12377,CUST2968,Lake Christineport,MO,North Rachel,MS,FedEx,Two-Day,2025-01-30
+e6e1a54c-bf24-4d5d-a96a-d53365985572,ORD69005,CUST0144,Timothyhaven,IA,Leonardstad,HI,FedEx,Same-Day,2025-01-29
+660123fb-cbc7-4ec9-93d3-ffa24d3bb8e6,ORD19734,CUST5828,North Sherrychester,WV,Trevorfurt,DC,UPS,Standard,2025-01-01
+6f73133f-7c0b-4379-b893-e9bf9f7f2b8e,ORD91682,CUST6627,Margaretchester,CT,Carmenborough,TN,UPS,Two-Day,2025-01-27
+831e9161-d82a-4ca1-899a-1879a8a37372,ORD74984,CUST8775,Burtonstad,MT,Jessicashire,KY,UPS,Standard,2025-01-28
+847da647-cb65-48f0-8886-ec6678d5d981,ORD46477,CUST5719,Markmouth,CO,South Aliciaport,NM,FedEx,Two-Day,2025-01-23
+ece8249d-8642-44fa-b4b9-1733ba3c7808,ORD58578,CUST6500,Lindamouth,MO,New Amberland,FM,UPS,Same-Day,2025-01-25
+e91831ec-aabe-4b1b-ba7a-04586bb083d4,ORD10393,CUST3022,South Jeffreymouth,MH,New Catherinetown,NM,FedEx,Two-Day,2025-01-23
+f2bdc592-301d-424a-99f6-9c9e6c843e27,ORD72932,CUST4301,New Carlosville,NV,West James,FL,UPS,Standard,2025-01-22
+48f0ea01-7541-4efe-b95a-5418da3e620c,ORD41900,CUST7562,Reeseberg,MT,North Ruthbury,CA,Amazon Logistics,Standard,2025-01-01
+ae6e87e6-69ac-488f-9301-30a9eb892e2d,ORD71017,CUST9203,Bradleyside,PW,East Matthew,OR,FedEx,Standard,2025-01-13
+07998131-5d95-46d4-821c-13796425196f,ORD44182,CUST3643,East Lynnland,TX,Johnsonstad,IN,Amazon Logistics,Same-Day,2025-01-16
+8cf8f0d6-3d84-4a2d-83ab-356be9c8b36a,ORD54852,CUST8774,North Corey,KY,Samuelstad,MH,UPS,Same-Day,2025-01-12
+41a86c6c-d748-470b-a4bd-a9ce92dea242,ORD39822,CUST2570,Harrischester,CO,New Nicholas,WA,UPS,Two-Day,2025-01-01
+c0ba0ec7-75b4-4c4a-a6fe-49133c0496cf,ORD17827,CUST4836,New Mitchellborough,KY,Colefort,CT,FedEx,Standard,2025-01-19
+ad48c738-0a85-4aec-a7e1-79a961fe4697,ORD05843,CUST1412,New Jamesburgh,TX,Flynnmouth,NV,Amazon Logistics,Standard,2025-01-30
+6a16e8f8-7cc9-43da-b341-fc8fc42ca875,ORD05880,CUST8443,East Tinashire,CO,North Zachary,MP,FedEx,Two-Day,2025-01-01
+f4fa8b2e-a223-46d0-a11e-76d63cb1eab6,ORD65182,CUST8242,Fullerborough,KY,Garciatown,PA,FedEx,Same-Day,2025-01-31
+40964588-a851-4f81-acef-98a9701feeff,ORD58211,CUST7847,New Justinmouth,OR,North Lori,MN,FedEx,Two-Day,2025-01-16
+f441e301-9dad-40c5-bf1b-6ec9214b1805,ORD88044,CUST6298,Lake Katherineport,PW,Port Angelachester,IA,UPS,Standard,2025-01-17
+e261dd20-d9e0-4b7d-abd9-239d30d27caa,ORD22830,CUST1807,Raymondmouth,DC,East Jenniferborough,PR,FedEx,Two-Day,2025-01-02
+bc1709b1-f902-4f80-bec6-b4fbbf18e527,ORD35565,CUST7138,Austinview,AR,North Kevin,RI,Amazon Logistics,Same-Day,2025-01-03
+c79921cb-f341-4147-b8bc-1526df0c20f3,ORD65954,CUST2276,Port Cindy,LA,Michelleberg,UT,Amazon Logistics,Standard,2025-01-19
+f020781c-a870-4360-9b2d-52aa48ae1311,ORD43785,CUST1040,Cardenasbury,AS,Reynoldston,MD,FedEx,Two-Day,2025-01-09
+c95fd79c-d106-4f2e-8682-9e2ca3b03b2f,ORD58153,CUST3373,New Diana,KY,Michelleborough,MP,Amazon Logistics,Same-Day,2025-01-31
+806c1a9c-0a30-4e40-ba94-812970565fb3,ORD74205,CUST2294,Lake Jonathanview,CT,New Howard,NE,UPS,Standard,2025-01-18
+85bbdf07-d2f2-4283-b796-eaae75373972,ORD62835,CUST2103,East William,NC,Heatherton,ND,FedEx,Two-Day,2025-01-24
+64a130aa-2efc-4b36-aa00-a6d36bbc741d,ORD20046,CUST4049,Davidview,GA,Popeview,AK,FedEx,Standard,2025-01-24
+e4f9ef43-bb34-4010-bbc6-007bd2b7d2c3,ORD56925,CUST2551,Woodsburgh,NM,Patrickton,PW,UPS,Standard,2025-01-24
+3a87d7e1-a04d-4966-a3a6-954d5be8f66e,ORD67214,CUST2164,North Joshua,IL,Dunnville,CT,UPS,Standard,2025-01-14
+3b2c7aa4-cc20-4a98-bba5-ee59464ff281,ORD71476,CUST7873,Thomasfort,PR,North Jessica,IA,FedEx,Standard,2025-01-12
+4b596a8e-1de1-4c00-bb78-0433580cfe15,ORD57427,CUST4136,Scottland,CT,New Amyfurt,TN,FedEx,Two-Day,2025-01-31
+48e4d718-6374-4cd9-b21c-3bc7414d632f,ORD25203,CUST8219,Sabrinafort,ND,Sherryton,MO,UPS,Two-Day,2025-01-31
+e5b3dbf5-0ea3-489f-92cf-7d26f6bce93b,ORD60112,CUST5765,South Deannaland,UT,Andreaport,DE,FedEx,Same-Day,2025-01-12
+1157a4dd-5dc2-4bc0-9fa1-2da83f45520b,ORD60266,CUST1306,Port Vincent,WV,Olsenport,WY,FedEx,Same-Day,2025-01-20
+3629a273-f322-4537-bb1b-d2ced40aada2,ORD73391,CUST1614,Port Curtis,AZ,New Kathleenhaven,UT,Amazon Logistics,Two-Day,2025-01-09
+91db7d4e-331c-4000-b8d0-8f1e84cab76d,ORD71398,CUST0519,Lake Timothy,PW,North Timothyview,DE,FedEx,Standard,2025-01-09
+6ab786c0-871f-47f7-9570-6b44dc5d9e47,ORD06468,CUST8361,Lake Michaelburgh,NJ,New Jon,IL,UPS,Standard,2025-01-12
+f5e046a0-a3fe-4958-8503-e553dfa3fc20,ORD93629,CUST5506,West Georgeside,IA,Drewshire,MA,Amazon Logistics,Same-Day,2025-01-31
+f80b5b87-d91b-48a7-825d-5ff1b86818e5,ORD36507,CUST7028,Tiffanyview,MO,Lisafurt,NE,UPS,Same-Day,2025-01-04
+cf251ed9-37d5-40db-b819-5caef7a8e50b,ORD79393,CUST0997,Lake Michael,NM,Avilafurt,NJ,FedEx,Same-Day,2025-01-03
+d90aaaaf-899e-4444-b656-b5bcbe6569d0,ORD01478,CUST2188,Port Donnaburgh,CO,Collinsmouth,OR,UPS,Two-Day,2025-01-03
+73d83928-20e5-4409-aab1-b1c57461eee3,ORD86026,CUST1551,Priceborough,WY,Schmidtborough,MA,Amazon Logistics,Same-Day,2025-01-28
+64eb9a9d-1284-4c5e-af75-9aae1f717ec7,ORD75938,CUST0928,East Rachel,WA,Diazside,NY,Amazon Logistics,Two-Day,2025-01-19
+f096e5b9-85cb-4fa3-94f5-ba941fb3ad91,ORD36718,CUST6966,South Danielle,OH,North Michellemouth,VI,FedEx,Standard,2025-01-22
+0f3a261f-c37a-49e6-ab9a-a49877aedd73,ORD25332,CUST4086,Lucasstad,LA,North William,IN,Amazon Logistics,Standard,2025-01-09
+9d2ca98b-d9f7-4bd4-a296-8e17ff370294,ORD73266,CUST8519,South Jennifer,FL,East Philipville,OH,UPS,Two-Day,2025-01-07
+91ea9c4c-e837-43ec-9af1-39736822f669,ORD25186,CUST2545,Alisonbury,MS,Lake Krystalland,DE,UPS,Same-Day,2025-01-20
+8a37014e-3e44-4aaa-ad00-71113b6ad630,ORD68984,CUST7331,North Jacqueline,ID,Lake Tracie,NJ,FedEx,Standard,2025-01-23
+0394584a-d3eb-41af-a2d1-2163d89977ed,ORD68497,CUST1189,Ericside,GA,New Roger,IA,FedEx,Standard,2025-01-09
+2aae6b5f-e6d6-4937-bd64-b6ced92d6a84,ORD38297,CUST0093,East Adam,MP,Garrettland,PW,FedEx,Same-Day,2025-01-06
+1f454be8-a858-4027-9fc1-da38de9c1943,ORD76417,CUST0762,Lake Michael,MD,Port Phillipfurt,HI,UPS,Two-Day,2025-01-07
+24de9994-456a-4663-ae0d-96e66f7ee200,ORD52125,CUST7104,North Davidbury,ME,North Rebeccaland,NM,FedEx,Standard,2025-01-06
+9d76c69a-3143-46a9-bae4-4603972c0a1e,ORD78758,CUST5773,North Erik,MT,Barnettstad,PW,FedEx,Same-Day,2025-01-10

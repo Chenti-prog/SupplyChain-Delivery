@@ -1,0 +1,46 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:15
+    container_name: sc_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: supply_chain
+    ports:
+      - "5432:5432"        # change host port if your local Postgres is already using 5432
+    volumes:
+      - ./db/init.sql:/docker-entrypoint-initdb.d/01_init.sql
+      - ./db/add_drivers.sql:/docker-entrypoint-initdb.d/02_add_drivers.sql
+      - ./db/metrics_view.sql:/docker-entrypoint-initdb.d/03_metrics_view.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d supply_chain"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  api:
+    build:
+      context: .
+      dockerfile: app_api/Dockerfile
+    container_name: sc_api
+    environment:
+      DB_URL: postgresql+psycopg2://postgres:postgres@db:5432/supply_chain
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+
+  dashboard:
+    build:
+      context: .
+      dockerfile: app_dashboard/Dockerfile
+    container_name: sc_dashboard
+    environment:
+      API_BASE_URL: http://api:8000
+    depends_on:
+      - api
+    ports:
+      - "8501:8501"
